@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>807342382403-1gsuohg7sa4aetmgti62do1tqmrrkdfv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.807342382403-1gsuohg7sa4aetmgti62do1tqmrrkdfv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA93Hy983Q0Xrb7FrANmvE1ZMwm5AUsS6I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>807342382403</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.henycave.school</string>
+	<key>PROJECT_ID</key>
+	<string>school-3ddb9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>school-3ddb9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:807342382403:ios:fa80ade876cce25a6a23f6</string>
+	<key>DATABASE_URL</key>
+	<string>https://school-3ddb9.firebaseio.com</string>
+</dict>
+</plist>

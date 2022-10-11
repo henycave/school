@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807342382403",
+    "firebase_url": "https://school-3ddb9.firebaseio.com",
+    "project_id": "school-3ddb9",
+    "storage_bucket": "school-3ddb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807342382403:android:d46b622bc168c2506a23f6",
+        "android_client_info": {
+          "package_name": "com.henycave.school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807342382403-4bmie0cvfhbgiqk61ng4ckko1b6tupfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGMhVGlyNyt8FEZbVNh4EON65iQfwTgUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807342382403-4bmie0cvfhbgiqk61ng4ckko1b6tupfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
